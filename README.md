@@ -12,5 +12,4 @@ Requirement
 ------------
 
 1. Python3
-
 2. Beautiful Soup http://www.crummy.com/software/BeautifulSoup/
