@@ -10,5 +10,7 @@ WeatherGet
 
 Requirement 
 ------------
-#. Python3
-#. Beautiful Soup http://www.crummy.com/software/BeautifulSoup/
+
+1. Python3
+
+2. Beautiful Soup http://www.crummy.com/software/BeautifulSoup/
