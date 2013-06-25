@@ -7,3 +7,8 @@ WeatherGet
 使用方法
 
     # python  WeatherGet.py
+
+Requirement 
+------------
+#. Python3
+#. Beautiful Soup http://www.crummy.com/software/BeautifulSoup/
