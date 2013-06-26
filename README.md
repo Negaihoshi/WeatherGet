@@ -13,3 +13,4 @@ Requirement
 
 1. Python3
 2. Beautiful Soup http://www.crummy.com/software/BeautifulSoup/
+* 實作時用的版本是 4.2.1 
